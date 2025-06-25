@@ -134,7 +134,7 @@ font-family: 'K2D', sans-serif;
   font-family: 'K2D', sans-serif;
 }
 .fe-683eec2205bd52674c41d8cb{
-  display: block;  
+  display: block !important;  
 }
 header#header {
     background-color: #011d3d !important;
