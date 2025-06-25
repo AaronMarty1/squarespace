@@ -437,6 +437,119 @@ section[data-section-id="683eec1ba85d5c737742e845"] {
 .section-background{
    background-color: #fff !important;
 }
+.share-list-contact p a {
+    text-decoration: none;
+    color: #001D3D;
+}
+.fluid-engine.fe-65f4bf6540e14c742a1370e7 {
+    padding-top: 100px;
+}
+.fluid-engine.fe-65f4bf6540e14c742a1370e7 form.react-form-contents textarea{
+    resize: none;
+}
+.fluid-engine.fe-65f4bf6540e14c742a1370e7 form.react-form-contents textarea {
+    height: 210px !important;
+}
+.fluid-engine.fe-65f4bf6540e14c742a1370e7 form.react-form-contents input[type=text],
+.fluid-engine.fe-65f4bf6540e14c742a1370e7 form.react-form-contents input[type=email],
+.fluid-engine.fe-65f4bf6540e14c742a1370e7 form.react-form-contents textarea {
+    border-bottom: 1px solid #001D3D;
+    border-top: unset !important;
+    border-left: unset !important;
+    border-right: unset !important;
+    border-radius: unset !important;
+    outline: unset;
+    transition: all 0.3s ease;
+}
+.fluid-engine.fe-65f4bf6540e14c742a1370e7 form.react-form-contents textarea:focus, .fluid-engine.fe-65f4bf6540e14c742a1370e7 form.react-form-contents input[type=email]:focus, .fluid-engine.fe-65f4bf6540e14c742a1370e7 form.react-form-contents input[type=text]:focus {
+    border: 1px solid #3DD8EC !important;
+    border-radius: 12px !important;
+    transition: all 0.3s ease;
+}
+.fluid-engine.fe-65f4bf6540e14c742a1370e7 form.react-form-contents button {
+    border-radius: 3px;
+    max-width: 100%;
+    width: 100%;
+}
+.fluid-engine.fe-65f4bf6540e14c742a1370e7 .fe-block-b3d73c9dcda3b3f54ddf {
+    grid-area: 1/12/11/25;
+    z-index: 1;
+}
+.fluid-engine.fe-65f4bf6540e14c742a1370e7 .fe-block-yui_3_17_2_1_1748958959063_1610 {
+    grid-area: 1/2/25/11;
+}
+.fluid-engine.fe-65f4bf6540e14c742a1370e7 form.react-form-contents label span {
+    font-family: 'K2D', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 20px;
+}
+.fluid-engine.fe-65f4bf6540e14c742a1370e7 form.react-form-contents button span {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 23px;
+    font-family: 'K2D', sans-serif;
+}
+.fe-block-yui_3_17_2_1_1748958959063_1610 {
+    grid-area: 1/2/70/11;
+}
+.fluid-engine.fe-65f4bf6540e14c742a1370e7 .form-wrapper .form-item {
+    padding-bottom: 47px;
+    margin: 0px !important;
+}
+.container-list h3{
+        font-size: 75px;
+        font-family: "Big Shoulders", sans-serif;
+        font-weight: bold;
+        line-height: 70px;
+        letter-spacing: -2.05px;
+        color: #3DD8EC;
+        margin: 0;
+    }
+.container-list h5 {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'K2D', sans-serif;
+    margin: 0;
+    line-height: 29px;
+    letter-spacing: -0.12px;
+    padding-top: 32px;
+}
+.new-contect{
+    width: 100%;
+}
+.share-icons {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding-top: 28px;
+}
+.share-list-contact p {
+    margin: 0px;
+    font-size: 18px;
+    font-family: 'K2D', sans-serif;
+    line-height: 30px;
+    font-weight: bold;
+    color: #001D3D;
+}
+.share-list-contact {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
+.share-list-contact i {
+    background-color: #3DD8EC;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.share-list-contact i::before {
+    font-size: 18px;
+    color: #fff;
+}
 
 @media (max-width:1230px) {
     .slick-prev {
