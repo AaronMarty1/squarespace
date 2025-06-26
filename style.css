@@ -674,7 +674,7 @@ section[data-section-id="683f106acf6e1850d1433a40"] {
 .fe-block-yui_3_17_2_1_1749667471966_2201 {
     grid-area: 2/15/19/24 !important;
 }
-div#yui_3_17_2_1_1750961508197_65 img {
+.fe-block-yui_3_17_2_1_1749667471966_2201 img {
     object-fit: contain !important;
 }
 @media (max-width:1306px){
@@ -726,13 +726,17 @@ div#yui_3_17_2_1_1750961508197_65 img {
 .fe-block.fe-block-yui_3_17_2_1_1748958959063_1610 {
     margin-bottom: 50px;
 }
-div#yui_3_17_2_1_1750961508197_65 img {
-    object-fit: cover !important;
+.fe-block-yui_3_17_2_1_1749667471966_2201 img {
+    object-fit: contain !important;
+}
+.fe-block-yui_3_17_2_1_1749667471966_2201 {
+    grid-area: 6/2/10/15 !important;
 }
 div#yui_3_17_2_1_1750961508197_71 {
     height: 400px;
     margin-top: 20px;
 }
+    
 }
 @media (max-width: 664px) {
 .fluid-engine.fe-683f106a6e828c38014321f1 .fe-block.fe-block-yui_3_17_2_1_1748963296643_2249 {
