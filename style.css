@@ -801,6 +801,13 @@ section[data-section-id="683f106acf6e1850d1433a40"] {
       display: flex;
       align-items: center;
       margin-top: 15px;
+      position: relative;
+    }
+    .testimonial-user svg{
+        position: absolute;
+        width: 80px;
+        right: 0;
+        bottom: 0;
     }
 
     .testimonial-user img,
