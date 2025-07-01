@@ -49,7 +49,7 @@ $(document).ready(function(){
     $('.testimonial-slider').slick({
       slidesToShow: 3,
       slidesToScroll: 1,
-      autoplay: false,
+      autoplay: true,
       autoplaySpeed: 4000,
       dots: true,
       arrows: false,
